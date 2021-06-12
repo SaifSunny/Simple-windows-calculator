@@ -1,0 +1,20 @@
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.exe.config
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.exe
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.pdb
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csprojAssemblyReference.cache
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.Form1.resources
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.Properties.Resources.resources
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csproj.GenerateResource.cache
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.exe
+C:\Users\Sunny\source\repos\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.pdb
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.exe.config
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.exe
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.pdb
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csprojAssemblyReference.cache
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.Form1.resources
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.Properties.Resources.resources
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csproj.GenerateResource.cache
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.exe
+E:\Visual Studio\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.pdb
